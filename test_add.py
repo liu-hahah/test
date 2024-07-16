@@ -31,7 +31,7 @@ def test_plus():
     b = 20
     print('a == b = {}'.format(a==b))
     logger.info('a == b = {}'.format(a==b))
-    allure.step('plus法')
+    allure.step('plus法2222')
     assert a == b
 
 
